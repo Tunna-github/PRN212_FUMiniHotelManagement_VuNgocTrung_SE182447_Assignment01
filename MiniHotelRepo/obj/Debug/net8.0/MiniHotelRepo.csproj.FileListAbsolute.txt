@@ -1,0 +1,17 @@
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\MiniHotelRepo.deps.json
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\MiniHotelRepo.dll
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\MiniHotelRepo.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\BusinessObject.dll
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\MiniHotelDAO.dll
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\BusinessObject.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\bin\Debug\net8.0\MiniHotelDAO.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.AssemblyInfo.cs
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHote.00F519ED.Up2Date
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.dll
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\refint\MiniHotelRepo.dll
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\MiniHotelRepo.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagement\MiniHotelRepo\obj\Debug\net8.0\ref\MiniHotelRepo.dll
